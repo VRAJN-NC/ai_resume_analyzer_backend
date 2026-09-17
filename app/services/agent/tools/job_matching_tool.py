@@ -1,4 +1,4 @@
-﻿"""Job matching tool: compares extracted skills against job_roles table."""
+"""Job matching tool: compares extracted skills against job_roles table."""
 from __future__ import annotations
 
 from typing import List
